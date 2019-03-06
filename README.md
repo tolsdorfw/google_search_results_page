@@ -1,0 +1,1 @@
+Second part of the first project of Odin Project curriculum. The aim of the project is to replicate Google search results page using CSS and HTML. The aim of the exercise is to practice HTML and CSS skills and is not implementing any functionality to the web page. 
